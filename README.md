@@ -18,9 +18,9 @@ LoRa-Based Offline Weather Monitoring System
     BMP280 Pressure Sensor
     Water Sensor
 ## Working:
-    Sensors collect environmental data at the transmitter node, which is then sent through LoRa over distances ranging from 2 to 10 km depending on terrain and antenna quality. 
+![Output](working.png)
+    Sensors collect environmental data at the transmitter node, which is then sent through LoRa over distances ranging from 2 to 10 km depending on terrain and antenna
     The receiver processes and displays the real-time data for farmers to make informed decisions.
-    ![Working](working.png)
 ## Data Flow:
     Sensors → Arduino (Tx) → LoRa Transmitter → ~~~ Wireless Communication ~~~ → LoRa Receiver → Arduino (Rx) → Display
 ## Applications:
