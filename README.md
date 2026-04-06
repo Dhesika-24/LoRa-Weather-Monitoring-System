@@ -18,7 +18,7 @@
     BMP280 Pressure Sensor
     Water Sensor
 ## Working:
-![Output](working.png)
+![Output](output.png)
     Sensors collect environmental data at the transmitter node, which is then sent through LoRa over distances ranging from 2 to 10 km depending on terrain and antenna
     The receiver processes and displays the real-time data for farmers to make informed decisions.
 ## Data Flow:
@@ -43,7 +43,7 @@
      Use of AI/ML for predictive farming 
      Solar-powered system for fully autonomous operation
 ## Output
-![Output](output.png)
+![Output](working.png)
  
 
 
