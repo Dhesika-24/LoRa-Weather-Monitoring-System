@@ -42,7 +42,7 @@ Future Improvements:
      Use of AI/ML for predictive farming 
      Solar-powered system for fully autonomous operation
 Output
-    Image will be added after project demonstration.
+    ![Output](Screenshot 2026-04-06 100632.png)
  
 
 
