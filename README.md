@@ -1,4 +1,4 @@
-LoRa-Based Offline Weather Monitoring System
+## LoRa-Based Offline Weather Monitoring System
 ## Overview:
     Farming in hilly regions is challenging due to unpredictable weather, poor internet access, and difficulty in monitoring soil and climate conditions.
     Existing IoT solutions rely on the internet, making them unsuitable for such areas. 
